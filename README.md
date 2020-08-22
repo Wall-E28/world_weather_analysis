@@ -2,7 +2,7 @@
 
 ## Overview
 
-This analysis looks at different weather patterns around the global and offers insights to travelers who want to book a trip. THere are three folders here that offer different levels of analysis: weather database, vacation search, and vacation itinerary.
+This analysis looks at different weather patterns around the global and offers insights to travelers who want to book a trip. There are three folders here that offer different levels of analysis: weather database, vacation search, and vacation itinerary.
 
 ### Weather Database
 
